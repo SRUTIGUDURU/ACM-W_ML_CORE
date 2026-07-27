@@ -12,3 +12,6 @@ An introduction to the building blocks of Python. This week covers environment s
 | 2 | Strings | Working with textual data – slicing, formatting, and methods. | [Watch](https://www.youtube.com/watch?v=k9TUPpGqYTo) |
 | 3 | Integers & Floats | Numeric data types, arithmetic operations, and type conversion. | [Watch](https://www.youtube.com/watch?v=khKv-8q7YmY) |
 | 4 | Lists, Tuples & Sets | Storing collections of data, indexing, and common operations. | [Watch](https://www.youtube.com/watch?v=W8KRzm-HUcc) |
+
+### For looking at code snippets and for practice problems go through this link
+https://colab.research.google.com/github/SRUTIGUDURU/ACM-W_ML_CORE/blob/main/Month_1_Python/Week_1/Week_1_Python_Basics.ipynb
